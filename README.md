@@ -1,44 +1,36 @@
-# Olá, eu sou o Jean 👋
+# Jean
 
-Desenvolvedor Júnior (Programador I) na área de TI/Sistemas do **Centro Universitário UniCarioca**, trabalhando na manutenção e evolução de sistemas internos de gestão acadêmica.
+Desenvolvedor de Sistemas (Programador I) na área de TI do **Centro Universitário UniCarioca**, atuando na manutenção e evolução de sistemas internos de gestão acadêmica.
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS) — junho/2026
-- 📚 Atualmente cursando pós-graduação em **Inteligência Artificial**
-- 💼 Atuo com PHP + SQL Server em sistemas de gestão acadêmica (GVCollege / Painel Gerencial)
-- 🐍 Aprendendo Python (trilha backend na Alura)
-- 🔧 Explorando automação com n8n e projetos de eletrônica (ESP32/Arduino)
+## Sobre
 
----
+- Bacharel em Análise e Desenvolvimento de Sistemas (ADS) — 2026
+- Pós-graduando em Inteligência Artificial
+- Experiência com desenvolvimento backend em PHP, Python e SQL Server, aplicada a sistemas de gestão acadêmica (GVCollege / Painel Gerencial)
+- Estudando automação de processos com n8n
 
-## 🛠️ Stack e Ferramentas
+## Stack Técnica
 
-**Backend & Banco de Dados**
+**Linguagens & Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Automação & Integrações**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+**Banco de Dados**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-**Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Infraestrutura & Automação**
 ![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat&logo=windows&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+## Áreas de Atuação
 
-## 💡 Em que estou trabalhando
+- Desenvolvimento e manutenção de sistemas de gestão acadêmica em PHP, Python e SQL Server
+- Geração de relatórios e documentos (PDF) integrados a bancos de dados corporativos
+- Otimização de consultas SQL e resolução de problemas em ambiente de produção
+- Estudos aplicados de Inteligência Artificial
+- Estudando automação de processos com n8n
 
-- Sistemas internos de certificação e relatórios gerenciais (PHP + SQL Server)
-- Geração de PDFs dinâmicos com FPDF
-- Estudos aplicados de IA na pós-graduação
-- Projetos pessoais de automação com n8n
+## Contato
 
----
-
-## 📫 Como me encontrar
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
-
----
-
-<p align="center"><i>Sempre aprendendo, sempre construindo.</i></p>
+Disponível para networking e colaboração em projetos. Entre em contato pelos canais indicados no perfil.
