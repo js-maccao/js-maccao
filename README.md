@@ -6,7 +6,7 @@ Desenvolvedor de Sistemas (Programador I) na área de TI do **Centro Universitá
 
 - Bacharel em Análise e Desenvolvimento de Sistemas (ADS) — 2026
 - Pós-graduando em Inteligência Artificial
-- Experiência com desenvolvimento backend em PHP, Python e SQL Server, aplicada a sistemas de gestão acadêmica (GVCollege / Painel Gerencial)
+- Experiência com desenvolvimento backend em PHP, Python e SQL Server, aplicada a sistemas de gestão acadêmica
 - Estudando automação de processos com n8n
 
 ## Stack Técnica
@@ -19,7 +19,6 @@ Desenvolvedor de Sistemas (Programador I) na área de TI do **Centro Universitá
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 **Infraestrutura & Automação**
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat&logo=windows&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -30,7 +29,3 @@ Desenvolvedor de Sistemas (Programador I) na área de TI do **Centro Universitá
 - Otimização de consultas SQL e resolução de problemas em ambiente de produção
 - Estudos aplicados de Inteligência Artificial
 - Estudando automação de processos com n8n
-
-## Contato
-
-Disponível para networking e colaboração em projetos. Entre em contato pelos canais indicados no perfil.
